@@ -216,3 +216,5 @@ if __name__ == '__main__':
     query = 'P21'
     result = player.inference_by_resolution(query)
     print(f"Query: {query}, Result: {result}")
+
+#Chat_GPT_Link: https://chatgpt.com/share/66f5f7a3-3f00-8009-b0f6-1d2b88188be4
